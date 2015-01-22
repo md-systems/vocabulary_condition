@@ -1,0 +1,7 @@
+condition.plugin.vocabulary:
+  type: condition.plugin
+  mapping:
+    bundles:
+      type: sequence
+      sequence:
+        - type: string

@@ -1,0 +1,6 @@
+type: module
+name: Vocabulary Condition
+description: Provides a vocabulary visibility condition
+version: 8.x-1.x
+core: 8.x
+
